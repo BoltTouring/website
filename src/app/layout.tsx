@@ -36,6 +36,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          defer
+          src="https://visits.bitcoindevs.xyz/script.js"
+          data-website-id="021ecf6b-c4dd-44a5-9d04-ceffb1313aad"
+          data-domains="whofundsbitcoin.com"
+        ></script>
+      </head>
       <body
         className={`${spaceGrotesk.variable} ${geistSans.variable} ${geistMono.className} ${tektur.variable} antialiased`}
       >
