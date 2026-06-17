@@ -10,12 +10,13 @@
   {
     "funder": "OpenSats",
     "recipientCount": "Bitcoin / General Fund",
-    "amount": "22,366,254 USD",
+    "amount": "24,298,147 USD",
     "source_url": "https://opensats.org/transparency",
-    "notes": "General Fund grants paid/provisioned through 2025; excludes separate Nostr Fund ($11.2M paid/provisioned)",
+    "notes": "General Fund grants paid/provisioned through 2026-Q1; excludes separate Nostr Fund ($11.5M paid/provisioned)",
     "dateRange": "2023 - Present",
     "source_urls": [
       "https://opensats.org/docs/financials/2022-2025.pdf",
+      "https://opensats.org/docs/financials/2026-Q1.pdf",
       "https://opensats.org/blog/2025-year-in-review"
     ]
   },
